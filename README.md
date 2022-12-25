@@ -1,2 +1,3 @@
 # All-About-That-DS
-Репозиторий для 
+
+Репозиторий по курсу "All About That DS"
